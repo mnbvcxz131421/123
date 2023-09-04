@@ -1,6 +1,7 @@
 # DouHaoCMS has a cross site request forgery vulnerability
 Version DouhaoCMSV3.3
-
+Vulnerability Introduction:
+DouHaoCMS has a CSRF vulnerability, which allows attackers to add backend administrator accounts to gain privileges
 
 Code exists in file
 adminAction.class.php
